@@ -1,0 +1,12 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+<<<<<<< HEAD
+examination-jacoco,se.nackademin.examination.examination_jacoco,Conversor,0,134,0,0,0,33,0,9,0,9
+examination-jacoco,se.nackademin.examination.examination_jacoco,Game,0,395,0,30,0,93,0,26,0,11
+examination-jacoco,se.nackademin.examination.examination_jacoco,Main,3,1,0,0,1,1,1,1,1,1
+examination-jacoco,se.nackademin.examination.examination_jacoco,DataAnalysis,0,109,0,14,0,20,0,11,0,4
+examination-jacoco,se.nackademin.examination.examination_jacoco,ResultFromInputs,0,43,0,0,0,17,0,9,0,9
+=======
+02-pass-annaBrundin,annaBrundin,AdvancedCalculator,0,30,0,0,0,6,0,6,0,6
+02-pass-annaBrundin,annaBrundin,Main,4,0,0,0,2,0,2,0,2,0
+02-pass-annaBrundin,annaBrundin,BasicCalculator,0,19,0,0,0,5,0,5,0,5
+>>>>>>> 7257af351f8a0ee67a584825e39bc299f4fb11fb

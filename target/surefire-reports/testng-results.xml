@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-01T13:14:29Z" name="Surefire suite" finished-at="2021-04-01T13:14:29Z" duration-ms="141">
+    <groups>
+    </groups>
+    <test started-at="2021-04-01T13:14:29Z" name="Surefire test" finished-at="2021-04-01T13:14:29Z" duration-ms="141">
+      <class name="se.nackademin.examination.examination_jacoco.ConversorTest">
+        <test-method signature="testGetSetAgeConverterArrayValues()[pri:0, instance:testGetSetAgeConverterArrayValues(se.nackademin.examination.examination_jacoco.ConversorTest)]" started-at="2021-04-01T15:14:29Z" name="testGetSetAgeConverterArrayValues" finished-at="2021-04-01T15:14:29Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSetAgeConverterArrayValues -->
+        <test-method signature="testSetNameConverterArrayValues()[pri:0, instance:testSetNameConverterArrayValues(se.nackademin.examination.examination_jacoco.ConversorTest)]" started-at="2021-04-01T15:14:29Z" name="testSetNameConverterArrayValues" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetNameConverterArrayValues -->
+        <test-method signature="testGetSetGenderConverterArrayValues()[pri:0, instance:testGetSetGenderConverterArrayValues(se.nackademin.examination.examination_jacoco.ConversorTest)]" started-at="2021-04-01T15:14:29Z" name="testGetSetGenderConverterArrayValues" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSetGenderConverterArrayValues -->
+        <test-method signature="testGetSetCityConverterArrayValues()[pri:0, instance:testGetSetCityConverterArrayValues(se.nackademin.examination.examination_jacoco.ConversorTest)]" started-at="2021-04-01T15:14:29Z" name="testGetSetCityConverterArrayValues" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSetCityConverterArrayValues -->
+        <test-method signature="testConversor()[pri:0, instance:testConversor(se.nackademin.examination.examination_jacoco.ConversorTest)]" started-at="2021-04-01T15:14:29Z" name="testConversor" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConversor -->
+      </class> <!-- se.nackademin.examination.examination_jacoco.ConversorTest -->
+      <class name="se.nackademin.examination.examination_jacoco.GameTest">
+        <test-method signature="testRun()[pri:0, instance:testRun(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testRun" finished-at="2021-04-01T15:14:29Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method signature="testCalculateOutPutBasedOnGender()[pri:0, instance:testCalculateOutPutBasedOnGender(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testCalculateOutPutBasedOnGender" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateOutPutBasedOnGender -->
+        <test-method signature="collectInputDataCorrectUserInput()[pri:0, instance:collectInputDataCorrectUserInput(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="collectInputDataCorrectUserInput" finished-at="2021-04-01T15:14:29Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collectInputDataCorrectUserInput -->
+        <test-method signature="testCalculateOutPutBasedOnHomeCity()[pri:0, instance:testCalculateOutPutBasedOnHomeCity(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testCalculateOutPutBasedOnHomeCity" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateOutPutBasedOnHomeCity -->
+        <test-method signature="testCalculateOutPutBasedOnAge()[pri:0, instance:testCalculateOutPutBasedOnAge(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testCalculateOutPutBasedOnAge" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateOutPutBasedOnAge -->
+        <test-method signature="testGetGenderFromInputValues()[pri:0, instance:testGetGenderFromInputValues(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testGetGenderFromInputValues" finished-at="2021-04-01T15:14:29Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetGenderFromInputValues -->
+        <test-method signature="testRunGame()[pri:0, instance:testRunGame(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testRunGame" finished-at="2021-04-01T15:14:29Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRunGame -->
+        <test-method signature="testGetAgeFromInputValues()[pri:0, instance:testGetAgeFromInputValues(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testGetAgeFromInputValues" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAgeFromInputValues -->
+        <test-method signature="testCalculateOutPutBasedOnNames()[pri:0, instance:testCalculateOutPutBasedOnNames(se.nackademin.examination.examination_jacoco.GameTest)]" started-at="2021-04-01T15:14:29Z" name="testCalculateOutPutBasedOnNames" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateOutPutBasedOnNames -->
+      </class> <!-- se.nackademin.examination.examination_jacoco.GameTest -->
+      <class name="se.nackademin.examination.examination_jacoco.ResultsFromInputsTest">
+        <test-method signature="testAgeGettersAndSettersMethods()[pri:0, instance:testAgeGettersAndSettersMethods(se.nackademin.examination.examination_jacoco.ResultsFromInputsTest)]" started-at="2021-04-01T15:14:29Z" name="testAgeGettersAndSettersMethods" finished-at="2021-04-01T15:14:29Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAgeGettersAndSettersMethods -->
+      </class> <!-- se.nackademin.examination.examination_jacoco.ResultsFromInputsTest -->
+      <class name="se.nackademin.examination.examination_jacoco.DataAnalysisTest">
+        <test-method signature="testGetResulStringHomecityAndAge()[pri:0, instance:testGetResulStringHomecityAndAge(se.nackademin.examination.examination_jacoco.DataAnalysisTest)]" started-at="2021-04-01T15:14:29Z" name="testGetResulStringHomecityAndAge" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetResulStringHomecityAndAge -->
+        <test-method signature="testGetResultStringNamesAndAge()[pri:0, instance:testGetResultStringNamesAndAge(se.nackademin.examination.examination_jacoco.DataAnalysisTest)]" started-at="2021-04-01T15:14:29Z" name="testGetResultStringNamesAndAge" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetResultStringNamesAndAge -->
+        <test-method signature="testBuildFinalString()[pri:0, instance:testBuildFinalString(se.nackademin.examination.examination_jacoco.DataAnalysisTest)]" started-at="2021-04-01T15:14:29Z" name="testBuildFinalString" finished-at="2021-04-01T15:14:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuildFinalString -->
+      </class> <!-- se.nackademin.examination.examination_jacoco.DataAnalysisTest -->
+      <class name="se.nackademin.examination.examination_jacoco.MainTest">
+        <test-method signature="testMainMethod()[pri:0, instance:testMainMethod(se.nackademin.examination.examination_jacoco.MainTest)]" started-at="2021-04-01T15:14:29Z" name="testMainMethod" finished-at="2021-04-01T15:14:29Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainMethod -->
+      </class> <!-- se.nackademin.examination.examination_jacoco.MainTest -->
+=======
+<testng-results total="45" passed="45" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-01T12:56:07Z" name="Surefire suite" finished-at="2021-04-01T12:56:08Z" duration-ms="259">
+    <groups>
+    </groups>
+    <test started-at="2021-04-01T12:56:07Z" name="Surefire test" finished-at="2021-04-01T12:56:08Z" duration-ms="259">
+      <class name="annaBrundin.BasicCalculatorTest">
+        <test-method signature="subtractionPositive()[pri:0, instance:subtractionPositive(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="subtractionPositive" finished-at="2021-04-01T14:56:07Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionPositive -->
+        <test-method signature="subtractionNegative()[pri:0, instance:subtractionNegative(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="subtractionNegative" finished-at="2021-04-01T14:56:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionNegative -->
+        <test-method signature="subtraction()[pri:0, instance:subtraction(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="subtraction" finished-at="2021-04-01T14:56:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+        <test-method signature="multiplicationZeroValue1()[pri:0, instance:multiplicationZeroValue1(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="multiplicationZeroValue1" finished-at="2021-04-01T14:56:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationZeroValue1 -->
+        <test-method signature="multiplicationZeroValue2()[pri:0, instance:multiplicationZeroValue2(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="multiplicationZeroValue2" finished-at="2021-04-01T14:56:07Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationZeroValue2 -->
+        <test-method signature="additionZeroValue1()[pri:0, instance:additionZeroValue1(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="additionZeroValue1" finished-at="2021-04-01T14:56:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionZeroValue1 -->
+        <test-method signature="additionZeroValue2()[pri:0, instance:additionZeroValue2(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="additionZeroValue2" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionZeroValue2 -->
+        <test-method signature="addition()[pri:0, instance:addition(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="addition" finished-at="2021-04-01T14:56:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method signature="multiplicationPositive()[pri:0, instance:multiplicationPositive(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="multiplicationPositive" finished-at="2021-04-01T14:56:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationPositive -->
+        <test-method signature="additionPositive()[pri:0, instance:additionPositive(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="additionPositive" finished-at="2021-04-01T14:56:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionPositive -->
+        <test-method signature="multiplicationNegative()[pri:0, instance:multiplicationNegative(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="multiplicationNegative" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationNegative -->
+        <test-method signature="additionNegative()[pri:0, instance:additionNegative(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="additionNegative" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionNegative -->
+        <test-method signature="division()[pri:0, instance:division(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="division" finished-at="2021-04-01T14:56:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method signature="subtractionZeroValue1()[pri:0, instance:subtractionZeroValue1(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="subtractionZeroValue1" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionZeroValue1 -->
+        <test-method signature="subtractionZeroValue2()[pri:0, instance:subtractionZeroValue2(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="subtractionZeroValue2" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionZeroValue2 -->
+        <test-method signature="multiplication()[pri:0, instance:multiplication(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="multiplication" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method signature="divisionPositive()[pri:0, instance:divisionPositive(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="divisionPositive" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionPositive -->
+        <test-method signature="divisionNegative()[pri:0, instance:divisionNegative(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="divisionNegative" finished-at="2021-04-01T14:56:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionNegative -->
+        <test-method signature="divisionZeroValue1()[pri:0, instance:divisionZeroValue1(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="divisionZeroValue1" finished-at="2021-04-01T14:56:07Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionZeroValue1 -->
+        <test-method signature="divisionZeroValue2()[pri:0, instance:divisionZeroValue2(annaBrundin.BasicCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="divisionZeroValue2" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionZeroValue2 -->
+      </class> <!-- annaBrundin.BasicCalculatorTest -->
+      <class name="annaBrundin.AdvancedCalculatorTest">
+        <test-method signature="percentageNegativePercent()[pri:0, instance:percentageNegativePercent(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="percentageNegativePercent" finished-at="2021-04-01T14:56:07Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentageNegativePercent -->
+        <test-method signature="remainderNegativeDividend()[pri:0, instance:remainderNegativeDividend(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="remainderNegativeDividend" finished-at="2021-04-01T14:56:07Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderNegativeDividend -->
+        <test-method signature="negativeExponentiationZeroExponent()[pri:0, instance:negativeExponentiationZeroExponent(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="negativeExponentiationZeroExponent" finished-at="2021-04-01T14:56:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeExponentiationZeroExponent -->
+        <test-method signature="percentageZeroPercentage()[pri:0, instance:percentageZeroPercentage(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="percentageZeroPercentage" finished-at="2021-04-01T14:56:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentageZeroPercentage -->
+        <test-method signature="remainderPositive()[pri:0, instance:remainderPositive(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="remainderPositive" finished-at="2021-04-01T14:56:07Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderPositive -->
+        <test-method signature="percentageNegativeValue()[pri:0, instance:percentageNegativeValue(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="percentageNegativeValue" finished-at="2021-04-01T14:56:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentageNegativeValue -->
+        <test-method signature="negativeExponentiationZeroBase()[pri:0, instance:negativeExponentiationZeroBase(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="negativeExponentiationZeroBase" finished-at="2021-04-01T14:56:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeExponentiationZeroBase -->
+        <test-method signature="percentage()[pri:0, instance:percentage(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="percentage" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentage -->
+        <test-method signature="negativeExponentiation()[pri:0, instance:negativeExponentiation(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="negativeExponentiation" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeExponentiation -->
+        <test-method signature="percentageZeroValue()[pri:0, instance:percentageZeroValue(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="percentageZeroValue" finished-at="2021-04-01T14:56:07Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentageZeroValue -->
+        <test-method signature="remainderZeroDivisor()[pri:0, instance:remainderZeroDivisor(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="remainderZeroDivisor" finished-at="2021-04-01T14:56:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderZeroDivisor -->
+        <test-method signature="squareRootZeroValue()[pri:0, instance:squareRootZeroValue(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:07Z" name="squareRootZeroValue" finished-at="2021-04-01T14:56:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- squareRootZeroValue -->
+        <test-method signature="absoluteValueOf()[pri:0, instance:absoluteValueOf(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="absoluteValueOf" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- absoluteValueOf -->
+        <test-method signature="positiveExponentiationZeroExponent()[pri:0, instance:positiveExponentiationZeroExponent(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="positiveExponentiationZeroExponent" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveExponentiationZeroExponent -->
+        <test-method signature="remainderZeroDividend()[pri:0, instance:remainderZeroDividend(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="remainderZeroDividend" finished-at="2021-04-01T14:56:08Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderZeroDividend -->
+        <test-method signature="remainderNegativeDivisor()[pri:0, instance:remainderNegativeDivisor(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="remainderNegativeDivisor" finished-at="2021-04-01T14:56:08Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderNegativeDivisor -->
+        <test-method signature="squarePositive()[pri:0, instance:squarePositive(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="squarePositive" finished-at="2021-04-01T14:56:08Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- squarePositive -->
+        <test-method signature="squareNegative()[pri:0, instance:squareNegative(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="squareNegative" finished-at="2021-04-01T14:56:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- squareNegative -->
+        <test-method signature="remainder()[pri:0, instance:remainder(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="remainder" finished-at="2021-04-01T14:56:08Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainder -->
+        <test-method signature="positiveExponentiationZeroBase()[pri:0, instance:positiveExponentiationZeroBase(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="positiveExponentiationZeroBase" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveExponentiationZeroBase -->
+        <test-method signature="positiveExponentiationNegativeExponent()[pri:0, instance:positiveExponentiationNegativeExponent(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="positiveExponentiationNegativeExponent" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveExponentiationNegativeExponent -->
+        <test-method signature="negativeExponentiationPositiveExponent()[pri:0, instance:negativeExponentiationPositiveExponent(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="negativeExponentiationPositiveExponent" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeExponentiationPositiveExponent -->
+        <test-method signature="remainderDoubleValue()[pri:0, instance:remainderDoubleValue(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="remainderDoubleValue" finished-at="2021-04-01T14:56:08Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remainderDoubleValue -->
+        <test-method signature="squareRoot()[pri:0, instance:squareRoot(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="squareRoot" finished-at="2021-04-01T14:56:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- squareRoot -->
+        <test-method signature="percentagePositive()[pri:0, instance:percentagePositive(annaBrundin.AdvancedCalculatorTest)]" started-at="2021-04-01T14:56:08Z" name="percentagePositive" finished-at="2021-04-01T14:56:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentagePositive -->
+      </class> <!-- annaBrundin.AdvancedCalculatorTest -->
+>>>>>>> 7257af351f8a0ee67a584825e39bc299f4fb11fb
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
