@@ -6,17 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-<<<<<<< HEAD
         <module name="examination-jacoco" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
+    <bytecodeTargetLevel>
       <module name="examination-jacoco" target="1.8" />
     </bytecodeTargetLevel>
-=======
-        <module name="02-pass-annaBrundin" />
-      </profile>
-    </annotationProcessing>
->>>>>>> 7257af351f8a0ee67a584825e39bc299f4fb11fb
   </component>
 </project>
